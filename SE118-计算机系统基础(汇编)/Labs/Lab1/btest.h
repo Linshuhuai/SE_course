@@ -34,10 +34,3 @@ typedef struct {
 } test_rec, *test_ptr;
 
 extern test_rec test_set[];
-
-
-
-
-
-
-

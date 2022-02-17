@@ -1,1 +1,1 @@
-SE3356 2022 fall
+SE3356 2022 Spring
